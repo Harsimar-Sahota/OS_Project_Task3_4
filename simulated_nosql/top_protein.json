@@ -1,0 +1,32 @@
+[
+  {
+    "Diet_type": "Keto",
+    "Recipe_name": "Avocado Salad",
+    "Cuisine_type": "mexican",
+    "Protein(g)": 25,
+    "Carbs(g)": 5,
+    "Fat(g)": 20,
+    "Extraction_day": "2025-10-06",
+    "Extraction_time": "10:05:00"
+  },
+  {
+    "Diet_type": "Mediterranean",
+    "Recipe_name": "Olive Pasta",
+    "Cuisine_type": "italian",
+    "Protein(g)": 15,
+    "Carbs(g)": 50,
+    "Fat(g)": 10,
+    "Extraction_day": "2025-10-06",
+    "Extraction_time": "10:10:00"
+  },
+  {
+    "Diet_type": "Vegan",
+    "Recipe_name": "Green Smoothie",
+    "Cuisine_type": "american",
+    "Protein(g)": 12,
+    "Carbs(g)": 30,
+    "Fat(g)": 2,
+    "Extraction_day": "2025-10-06",
+    "Extraction_time": "10:00:00"
+  }
+]
